@@ -29,8 +29,6 @@ CF_EMAIL_CF=cloudflare的邮箱
 57                  memory: 128M                 #建议修改到256
 58                  disk_quota: 128M              #建议修改到1024
 
-希望大家都能成功部署！
-
 CF_ROUTE 是IBM应用 的访问网址，
 不过一般是通过workers转发，这个地址不怎么重要。
 
