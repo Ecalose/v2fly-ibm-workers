@@ -30,7 +30,7 @@ CF_EMAIL_CF=cloudflare的邮箱
 
 56                - name: v2fly                      #修改为你自己的项目名称，CF_ROUTE_IBM这个secret就是填这个名称，建议改为IBMyes时候你设定的项目名称，这样能CF works延用之前的works，不会因为换名称而新建works，到时候填伪装域名又要换！
 
-57                  memory: 128M                 #建议修改到256
+57                  memory: 128M                  #建议修改到256
 
 58                  disk_quota: 128M              #建议修改到1024
 
