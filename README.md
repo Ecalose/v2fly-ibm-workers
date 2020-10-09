@@ -35,8 +35,11 @@ CF_ROUTE 是IBM应用 的访问网址，
 不过一般是通过workers转发，这个地址不怎么重要。
 
 譬如设置了
-CF_UUID_IBM:       cd8cd4db-5610-4389-a7dd-415763763a06
-CF_WSPATH_IBM:  /ktAL931X7P
-CF_WORKER_NAME_CF： my-ibm-worker
+CF_UUID_IBM:       cd8cd4db-5610-4389-a7dd-415763763a0
+
+CF_WSPATH_IBM:  /ktAL931X7
+
+CF_WORKER_NAME_CF： my-ibm-worke
+
 v2n客户端配置图：
 
